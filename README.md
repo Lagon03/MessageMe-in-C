@@ -1,2 +1,3 @@
-# MessageMe-in-C
-message your friends form a terminal
+# THE NEC PLUS ULTRA COM TECHNOLOGY
+## MessageMe-in-C
+Message your friends from a terminal
